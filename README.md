@@ -28,3 +28,12 @@
 
 - [Activity: дәрілердің жарамдылық мерзімін тексеру](docs/analysis/activity-check-expiry.png)
 - [Sequence: дәрілердің жарамдылық мерзімін тексеру](docs/analysis/sequence-check-expiry.png)
+
+### 13-апта. Деректерді модельдеу
+
+- [DFD контекстік диаграммасы](docs/analysis/dfd-context.png)
+- [DFD Level 0](docs/analysis/dfd-level0.png)
+- [DFD Level 1](docs/analysis/dfd-level1.png)
+- [ERD диаграммасы](docs/database/erd.png)
+- [SQL деректер қоры](docs/database/schema.sql)
+- [SQL сұраныстарының нәтижелері](docs/database/query-results.png)
